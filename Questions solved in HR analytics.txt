@@ -1,0 +1,15 @@
+questions asked in HR analytics
+ 
+1. Total number of employees? 
+2. what are the education level of the employees? 
+3. concatenate first name and last name into full name and drop single column of first and last name.
+4. Identify total number of male and female employees.
+5. How many employees are their in different department?
+6. What are the education qualification of the employees ?
+7. find Employees who work 10 years in the company?
+8. How many employees hired by year ?
+9. find the marital status of the employees.
+10. Employees who earn more than 3L in the company ?
+11. How many employees do overtime?
+12. what are the satisfaction level of the employees?
+13. what are the Rating level of the employees?
